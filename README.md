@@ -10,3 +10,5 @@ A generator that uses characters and numbers to randomly make a unique password.
 *Javascript
 
 ## Deployment
+https://cijoshtc.github.io/Randomized-password-generator/
+
