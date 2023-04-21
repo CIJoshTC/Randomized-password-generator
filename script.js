@@ -7,6 +7,12 @@ var chosen=[]
 
 
 function generatePassword(){
+  var passwordLength=prompt("choose password length between 8 and 28 chracters");
+  console.log(passwordLength);
+  var addLetters= confirm("Add letters to password?");
+  console.log(addLetters);
+  var addSpecChars= confirm("Add special characters?");
+  console.log()
 }
 
 var generateBtn = document.querySelector("#generate");
