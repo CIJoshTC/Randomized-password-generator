@@ -13,6 +13,7 @@ function generatePassword(){
   console.log(addLetters);
   var addSpecChars= confirm("Add special characters?");
   console.log()
+  return "";
 }
 
 var generateBtn = document.querySelector("#generate");
