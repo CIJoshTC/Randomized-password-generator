@@ -12,7 +12,7 @@ function generatePassword(){
   var addLetters= confirm("Add letters to password?");
   console.log(addLetters);
   var addSpecChars= confirm("Add special characters?");
-  console.log()
+  console.log(addSpecChars);
   return "";
 }
 
